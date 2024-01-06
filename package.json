@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "vercel dev",
+    "start": "vercel dev --listen 5005",
     "deploy": "vercel"
   },
   "dependencies": {
