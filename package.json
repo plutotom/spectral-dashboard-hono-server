@@ -4,6 +4,7 @@
     "deploy": "vercel"
   },
   "dependencies": {
+    "@notionhq/client": "^2.2.14",
     "hono": "^3.12.0"
   },
   "devDependencies": {
